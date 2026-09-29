@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-immobilienscout24",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the ImmobilienScout24 Scraper Apify Actor by ScrapeUnblocker: German property listings with price, warm rent, rooms, living area, address and realtor as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-immobilienscout24#readme",
